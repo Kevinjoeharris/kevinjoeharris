@@ -37,5 +37,8 @@ Splunk | ELK Stack | PostgreSQL | DynamoDB | Apache Airflow
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/kevin-joe-harris/
+  
+---
 
+![](https://komarev.com/ghpvc/?username=Kevinjoeharris&color=green)
 ⭐ *Automating reliability, scalability, and performance*

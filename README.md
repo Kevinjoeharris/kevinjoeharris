@@ -7,16 +7,15 @@
 ## ⚙️ Tech Stack
 
 ### 💻 Languages
-Python | Bash | SQL | C/C++ | Go
+Python | Bash | C/C++ | Go
 
 ### 🧰 DevOps & Frameworks
 Docker | Kubernetes | Jenkins | GitLab CI/CD | Terraform | Ansible  
 React | Node.js | Flask | Django
 
-### ☁️ Cloud & Data
-AWS (EC2, S3, Lambda, VPC, IAM)  
-GCP | Azure  
-Splunk | ELK Stack | PostgreSQL | DynamoDB | Apache Airflow
+### ☁️ Cloud 
+AWS | GCP | Azure  
+Splunk | ELK Stack | Grafana 
 
 ---
 
@@ -37,6 +36,7 @@ Splunk | ELK Stack | PostgreSQL | DynamoDB | Apache Airflow
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/kevin-joe-harris/
+- 🔗 DockerHub: https://hub.docker.com/repositories/kevinjoehar
   
 ---
 

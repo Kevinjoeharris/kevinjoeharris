@@ -7,7 +7,7 @@
 ## ⚙️ Tech Stack
 
 ### 💻 Languages
-Python | Bash | SQL | C/C++
+Python | Bash | SQL | C/C++ | Go
 
 ### 🧰 DevOps & Frameworks
 Docker | Kubernetes | Jenkins | GitLab CI/CD | Terraform | Ansible  
@@ -20,18 +20,18 @@ Splunk | ELK Stack | PostgreSQL | DynamoDB | Apache Airflow
 
 ---
 
-## 🚀 Experience Highlights
-- Automated CI/CD pipelines for containerized applications  
-- Managed Kubernetes clusters with high availability  
-- Supported Splunk & ELK production environments  
-- Resolved critical infrastructure and networking issues  
+## 🚀 Highlighted Projects
+- 2048 Game on AWS EKS with ALB Controller
+- Three Tier Architecture To-Do list 
+- Django app on AWS ECS and ECR with Jenkins CICD
+- Shell Script Containerized and Deployed in Kubernetes
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced Kubernetes & OpenShift  
 - Terraform (AWS & GCP)  
-- Python & TypeScript for automation  
+- Advanced Ansible 
 
 ---
 

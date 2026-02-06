@@ -6,12 +6,11 @@
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages
+### 💻 Languages & Scripting
 Python | Bash | C/C++ | Go
 
-### 🧰 DevOps & Frameworks
-Docker | Kubernetes | Jenkins | GitLab CI/CD | Terraform | Ansible  
-React | Node.js | Flask | Django
+### 🧰 DevOps
+Docker | Kubernetes | Jenkins | GitHub Actions | Terraform | Ansible  
 
 ### ☁️ Cloud 
 AWS | GCP | Azure  
@@ -35,7 +34,7 @@ Agro CD
 
 ## 🌱 Currently Learning
 - Advanced Kubernetes & OpenShift  
-- Terraform (AWS & GCP)  
+- Terraform (AWS)
 - Advanced Ansible 
 
 ---
